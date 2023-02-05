@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/twoway.iml" filepath="$PROJECT_DIR$/twoway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hdx.iml" filepath="$PROJECT_DIR$/hdx.iml" />
     </modules>
   </component>
 </project>
